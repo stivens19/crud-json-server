@@ -1,0 +1,11 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Stivens Espinoza Reina",
+      "email": "stivens70espinoza@gmail.com",
+      "telefono": "931340718",
+      "facultad": "Mecanica",
+      "id": 2
+    }
+  ]
+}
